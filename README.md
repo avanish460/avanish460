@@ -10,7 +10,7 @@
 ## My Skills
 - Programming Languages: Java, JS, Nodejs, HTML, CSS, Python
 - Frameworks: Reactjs, expressjs
-- Tools: Vs Code, Mongooes, Postman, Leetcode, Github
+- Tools: Vs Code, MongoDB Compass, Postman, Leetcode, Github
 - Database: MongoDB, Mysql, PostgresSQL
 
 ## Projects

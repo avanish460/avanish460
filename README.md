@@ -14,7 +14,7 @@
 - Database: MongoDB, Mysql, PostgresSQL
 
 ## Projects
-- [youtubeClone](https://github.com/avanish460/TailwindCss/tree/main/youtubeclone) - A basic youtube layout clone
+- [payTMClone](https://github.com/avanish460/payTM) - Build a basic version of PayTM
 - [pokemonSearchApp](https://github.com/avanish460/js_Projects/tree/main/pokemonSearchApp) - This is an app that will search for Pokémon by name or ID and display the results to the user. To retrieve the Pokémon data and images.
 - [platformerGame](https://github.com/avanish460/js_Projects/tree/main/platformerGame) - Platformer Game, one step up at a time
 
